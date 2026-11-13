@@ -1,7 +1,7 @@
 defmodule Spreadsheet.MixProject do
   use Mix.Project
 
-  @github_url "https://github.com/fltoss/spreadsheet"
+  @github_url "https://github.com/wkirschbaum/spreadsheet"
   @version "0.7.1"
 
   def project do
